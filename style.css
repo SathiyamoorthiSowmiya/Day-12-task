@@ -1,0 +1,38 @@
+main{
+    border: 4px solid black;
+    margin: 30px;
+    padding: 2px;
+}
+.box{
+    border: 3px black solid;
+    padding: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+.imgbox{
+    border: 3px solid black;
+    padding: 5px;
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.imagebox{
+    border: 2px solid black;
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.formbox{
+    padding: 20px;
+    
+}
